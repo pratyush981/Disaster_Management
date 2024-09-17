@@ -1,0 +1,11 @@
+TweetID,User,Location,Date,Tweet,Fact_Check_Result,Rating
+1,UserA,New York,2024-09-01,Breaking: The Eiffel Tower is being relocated to Las Vegas next year.,No claim found,True Data
+2,UserB,London,2024-09-01,NASA confirms water found on Mars!,No claim found,True Data
+3,UserC,Paris,2024-09-01,"Vaccines cause autism, according to a new study.","A study testing COVID-19 vaccines in pregnant rats supports the idea that ""vaccines and autism have always been linked."" False.",False
+4,UserD,Berlin,2024-09-01,The World Health Organization declares COVID-19 officially over.,The World Health Organisation has declared the Covid-19 pandemic over.,It has not. The pandemic has been downgraded from the highest alert level and is no longer considered a public health emergency of international concern. But the WHO says the pandemic is ongoing and remains a global health risk.
+5,UserE,Tokyo,2024-09-01,"Polar bears are thriving, with their population increasing by 30% this year.",No claim found,True Data
+6,UserF,Sydney,2024-09-01,A meteor shower will be visible across the northern hemisphere tonight.,No claim found,True Data
+7,UserG,Los Angeles,2024-09-01,Bill Gates has announced plans to run for President of the United States.,No claim found,True Data
+8,UserH,Rome,2024-09-01,"The Great Wall of China is visible from space, according to astronauts.",The Great Wall of China is the only man-made object visible from the moon.,False
+9,UserI,Moscow,2024-09-01,"A massive solar storm will hit Earth next week, causing widespread power outages.",No claim found,True Data
+10,UserJ,Mumbai,2024-09-01,The Amazon rainforest is now fully protected under new international laws.,No claim found,True Data

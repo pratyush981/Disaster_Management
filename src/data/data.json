@@ -1,0 +1,27 @@
+[
+    {
+      "type": "Earthquake",
+      "date": "2024-09-01T12:00:00Z",
+      "location": "Delhi, India",
+      "areaAffected": "20 sq km",
+      "severity": "High",
+      "description": "A severe earthquake struck Delhi, causing significant damage."
+    },
+    {
+      "type": "Flood",
+      "date": "2024-08-02T14:00:00Z",
+      "location": "Mumbai, India",
+      "areaAffected": "50 sq km",
+      "severity": "Medium",
+      "description": "Heavy rains have caused flooding in several areas of Mumbai."
+    },
+    {
+      "type": "Flood",
+      "date": "2024-07-02T14:00:00Z",
+      "location": "Chennai, India",
+      "areaAffected": "50 sq km",
+      "severity": "Medium",
+      "description": "Heavy rains have caused flooding in several areas of Chennai."
+    }
+  ]
+  

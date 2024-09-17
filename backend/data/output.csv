@@ -1,0 +1,58 @@
+Title,Tweet,Date,Location,predicted_disaster,Fact_Check_Result,Rating
+1993 India Floods,1993 India flood caused extensive damage with over 1000 deaths and millions displaced.,1993-07-07,India,flood,No claim found,True Data
+1993 Latur Earthquake,1993 Latur earthquake in India caused 5000+ deaths and major destruction.,1993-09-30,Latur,earthquake,No claim found,True Data
+1994 Plague in India,1994 plague in India caused by rat population surge after Latur earthquake killing many.,1994-08-26,India,earthquake,No claim found,True Data
+1994 Rajpura Dariba Mine VRM Disaster,1994 Rajpura Dariba mine disaster due to cemented fill failure resulting in all miners were under Flood.,1994-08-28,Rajpura,flood,No claim found,True Data
+1997 Uphaar Cinema Fire,1997 Uphaar cinema fire in Delhi killed 59 exposed poor safety standards in public places.,1997-06-13,Delhi,tornado,No claim found,True Data
+1998 Malpa Landslide,Massive landslide wiped out Malpa village killing over 200 people including Protima Bedi,1998-08-18,Malpa,landslide,No claim found,True Data
+2000 Mumbai Landslide,Landslide in Mumbai killed 78 due to heavy rain and poor building conditions,2000-07-12,Mumbai,landslide,No claim found,True Data
+2001 Gujarat Earthquake,Earthquake in Gujarat killed between 20000-30000 extensive damage and international aid,2001-01-26,Gujarat,earthquake,No claim found,True Data
+2001 Gujarat Cyclone,Powerful cyclone hit Gujarat causing minimal damage but missing fishermen were impacted,2001-05-27,Gujarat,cyclone,No claim found,True Data
+2002 West Bengal Cyclone,Cyclone in West Bengal caused 140+ deaths and significant flooding,2002-11-12,West Bengal,cyclone,No claim found,True Data
+2002 Indian Heatwave,2002 Indian heat wave killed thousands in Andhra Pradesh severe heatwave caused massive deaths.,2002-04-01,Andhra Pradesh,heatwave,No claim found,True Data
+Effect of the 2004 Indian Ocean Earthquake on India,2004 Indian Ocean quake killed 230000 in India tsunami devastated coastal regions.,2004-12-26,Indian Ocean Coast,tsunami,No claim found,True Data
+2005 December Chennai Stampede,2005 Chennai stampede during flood relief killed 27 chaos caused by heavy rain and rumors.,2005-12-18,Chennai,flood,No claim found,True Data
+November Chennai Stampede,Chennai stampede in November 2005 during flood relief caused deaths and injuries,2005-11-06,Chennai,flood,No claim found,True Data
+Maharashtra Floods of 2005,Mumbai flood in July 2005 caused extensive damage and disruption due to extreme rainfall,2005-07-26,Mumbai,flood,No claim found,True Data
+2006 Surat Flood,Surat flood in August 2006 caused by dam water release led to widespread flooding,2006-08-10,Surat,flood,No claim found,True Data
+2007 South Asian Floods,2007 South Asian flood displaced millions affected India Bangladesh Nepal Pakistan,2007-08-10,South Asia,flood,No claim found,True Data
+2007 Bihar Flood,2007 Bihar flood impacted 11 districts killed 1000+ caused extensive damage and displacement,2007-08-10,Bihar,flood,No claim found,True Data
+2008 Bihar Flood,Bihar flood in 2008 broke Kosi embankment affecting millions in Bihar and Nepal,2008-08-18,Bihar,flood,No claim found,True Data
+2008 Indian Floods,2008 Indian flood affected Maharashtra Andhra Pradesh and Bihar causing widespread devastation,2008-06-01,India,flood,No claim found,True Data
+Cyclone Aila,Cyclone Aila caused widespread damage and fatalities in India and Bangladesh; extensive relief efforts,2009-05-26,India/Bangladesh,cyclone,No claim found,True Data
+Floods,Heavy rains in India led to deadly flood affecting multiple states and causing significant damage,2009-07-01,India,flood,No claim found,True Data
+Andaman Islands Earthquake,Andaman Islands earthquake in August MW magnitude epicenter 300 km north of Port Blair no casualties tsunami watch issued,2009-08-11,Andaman Islands,earthquake,No claim found,True Data
+Andhra Pradesh CM Helicopter Crash,Andhra Pradesh CM Y S Rajasekhara Reddy's helicopter crashed in September all onboard died weather and storm issues,2009-09-02,Andhra Pradesh,storm,No claim found,True Data
+Cyclone Phyan,Cyclone Phyan formed near Sri Lanka in November causing heavy rain in Tamil Nadu, 2009-11-07,Tamil Nadu,cyclone,No claim found,True Data
+Eastern Indian Storm,Severe storm hit Bangladesh and eastern India killing hundreds and destroying thousands of homes,2010-04-13,Eastern India/Bangladesh,storm,No claim found,True Data
+Cyclone Laila,Severe cyclonic storm Laila caused flooding and damage in Andhra Pradesh and Tamil Nadu killing nine,2010-05-17,Andhra Pradesh/Tamil Nadu,storm,No claim found,True Data
+Ladakh Floods,Ladakh flood that occurred in August 2010 caused extensive damage and casualties after a cloudburst,2010-08-06,Ladakh,flood,No claim found,True Data
+Myanmar earthquake,Myanmar earthquake on November 11 2011 measured magnitude 6.8 and affected India,2011-11-11,Myanmar,earthquake,No claim found,True Data
+AMRI Hospital Wildfire,Fire at AMRI Hospital Kolkata in December 2011 caused by basement short circuit killed victims,2011-12-09,Kolkata,tornado,No claim found,True Data
+North Indian Cold Wave,Winter 2011 North Indian blizzard killed over people in Uttar Pradesh Punjab and Haryana,2011-11-01,North India,blizzard,No claim found,True Data
+Sikkim earthquake,Sikkim earthquake on September 18 2011 killed over 100 people and caused severe damage,2011-09-18,Sikkim,earthquake,No claim found,True Data
+Cyclone Jal,Cyclone Jal in October 2010 caused severe flooding and damage across India Thailand and Malaysia,2010-10-10,India/Thailand/Malaysia,cyclone,No claim found,True Data
+Himalayan Flash Floods,August floods in Himalayan region caused deaths landslides infrastructure damage rescue operations conducted.,2012-08-03,Himalayan Region,tornado,No claim found,True Data
+North India Floods,June 2013 cloudburst in Uttarakhand led to severe floods landslides extensive rescue efforts.,2013-06-16,Uttarakhand,tornado,No claim found,True Data
+Cyclone Phailin,Severe Cyclone Phailin hit Odisha causing massive evacuations and significant damage,2013-10-12,Odisha,cyclone,No claim found,True Data
+Malin Landslide,Landslide in Malin on July caused by deforestation and rain killed people and buried houses,2014-07-30,Malin,landslide,No claim found,True Data
+India Pakistan Floods,India and Pakistan flood in September caused massive damage and casualties in Kashmir and Punjab,2014-09-01,Kashmir/Punjab,flood,No claim found,True Data
+Cyclone Hudhud,Severe Cyclone Hudhud hit Visakhapatnam in October causing extensive damage and deaths in India and Nepal,2014-10-12,Visakhapatnam,cyclone,No claim found,True Data
+Nepal Earthquake,7.8 Mw earthquake hit Nepal on April 25 2015 9000 killed 22000 injured major damage,2015-04-25,Nepal,earthquake,No claim found,True Data
+Nepal Earthquake,Major earthquake hit Nepal on May 12 2015 causing deaths injuries and fresh damage,2015-05-12,Nepal,earthquake,No claim found,True Data
+Heatwave,Severe heatwave in India May 2015 caused deaths and widespread power outages,2015-05-10,India,heatwave,No claim found,True Data
+Gujarat flood,June 2015 flood in Gujarat caused deaths severe damage and major relief efforts,2015-06-24,Gujarat,flood,No claim found,True Data
+North Gujarat flood,July 2015 floods in North Gujarat caused deaths and significant property damage,2015-07-27,North Gujarat,tornado,No claim found,True Data
+Imphal Earthquake,Earthquake in Manipur killed eleven and injured others with significant damage,2016-01-04,Imphal,earthquake,No claim found,True Data
+East Asia Cold Wave,Record blizzard in East Asia led to numerous deaths and unprecedented weather events,2016-01-22,East Asia,blizzard,No claim found,True Data
+Siachen Glacier Avalanche,Avalanche on Siachen Glacier trapped soldiers causing deaths and critical injuries,2016-02-03,Siachen Glacier,avalanche,No claim found,True Data
+Myanmar Earthquake,April 2016 earthquake in Myanmar causes 2 deaths injures over 100 felt in Bangladesh and India,2016-04-13,Myanmar,earthquake,No claim found,True Data
+Cyclone Nivar,Cyclone Nivar struck Tamil Nadu and Andhra Pradesh in late November causing significant damage and flooding.,2020-11-23,Tamil Nadu/Andhra Pradesh,cyclone,No claim found,True Data
+Cyclone Burevi,Cyclone Burevi struck Sri Lanka in December with minimal impact on southern India causing flooding and damage.,2020-11-30,Southern India,cyclone,No claim found,True Data
+Saurashtra flood,In September severe flood in Gujarat's Saurashtra region caused six deaths widespread damage and evacuations.,2021-09-01,Saurashtra,flood,No claim found,True Data
+Cyclone Gulab and Shaheen,Cyclone Gulab and Shaheen caused significant damage in Asia with heavy rain and powerful winds.,2021-09-01,Asia,cyclone,No claim found,True Data
+Kerala floods,On August severe flood affected Kerala India killing at least people due to heavy rainfall.,2020-08-25,Kerala,flood,No claim found,True Data
+Indian HeatWave,April-May 2016 heatwave in India set records affected millions with severe drought and health issues,2016-04-01,India,heatwave,No claim found,True Data
+Uttarakhand Forest Fires,Uttarakhand wildfires in April-May 2016 burned thousands of hectares caused by heatwave and drought,2016-04-01,Uttarakhand,heatwave,No claim found,True Data
+Cyclone Roanu,Cyclonic Storm Roanu caused severe flooding in Sri Lanka and Bangladesh resulting in numerous casualties and damage.,2016-05-17,Sri Lanka/Bangladesh,storm,No claim found,True Data
+Uttarakhand flood,In February 2021 a rock flood and ice avalanche caused flooding in Uttarakhand killing over 200.,2021-02-07,Uttarakhand,flood,No claim found,True Data
