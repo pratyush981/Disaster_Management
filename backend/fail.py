@@ -6,7 +6,7 @@ csv_file_path = 'data\cleaned_tweet_data.csv'  # Update the path to your CSV fil
 df = pd.read_csv(csv_file_path)
 
 # Your Google API Key
-API_KEY = 'AIzaSyCW1kw1GgmxmYEOQN9YTIhTXIZH3aoDvM0'  # Replace with your Google API key
+API_KEY = 'AIzaSyCW1kw1GXXXXXXXXTXIZH3aoXXXXXXXX'  # Replace with your Google API key
 FACT_CHECK_API_URL = 'https://factchecktools.googleapis.com/v1alpha1/claims:search'
 
 # Function to validate a tweet
