@@ -60,7 +60,7 @@ predicted_disasters = predict_disaster_types(test_df, loaded_model, tokenizer, l
 test_df['predicted_disaster'] = predicted_disasters
 
 # Fact-checking API setup
-API_KEY = 'AIzaSyCW1kw1GgmxmYEOQN9YTIhTXIZH3aoDvM0'  
+API_KEY = 'AIzaSyCW1kw1GXXXXXXXXTXIZH3aoXXXXXXXXX'  
 FACT_CHECK_API_URL = 'https://factchecktools.googleapis.com/v1alpha1/claims:search'
 
 def validate_tweet(tweet):
