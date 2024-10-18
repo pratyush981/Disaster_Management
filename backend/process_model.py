@@ -6,7 +6,6 @@ from tensorflow.keras.preprocessing.text import Tokenizer
 from tensorflow.keras.preprocessing.sequence import pad_sequences
 from sklearn.preprocessing import LabelEncoder
 
-# Load the model
 loaded_model = load_model('model/modelkeywords.h5')
 
 data = {
