@@ -29,7 +29,7 @@ df_training = pd.DataFrame(data)
 
 # Recreate the tokenizer and label encoder
 tokenizer = Tokenizer()
-tokenizer.fit_on_texts(df_training['text'])  # Fit the tokenizer on the same data used during training
+tokenizer.fit_on_texts(df_training['text'])
 
 label_encoder = LabelEncoder()
 label_encoder.fit(df_training['label'])
