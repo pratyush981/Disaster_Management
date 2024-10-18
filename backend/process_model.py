@@ -9,7 +9,6 @@ from sklearn.preprocessing import LabelEncoder
 # Load the model
 loaded_model = load_model('model/modelkeywords.h5')
 
-# Data for fitting the tokenizer and label encoder (training data used for example)
 data = {
     'text': [
         "flood", "wildfire", "earthquake", "tornado", "tsunami", "hurricane", 
