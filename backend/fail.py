@@ -30,11 +30,10 @@ def validate_tweet(tweet):
         print(f"Request failed: {e}")
         return 'Request failed', 'Unknown'
 
-# Apply the validation function to the 'Tweet' column
 df['Fact_Check_Result'], df['Rating'] = zip(*df['Tweet'].apply(validate_tweet))
 
 # Save the results to a new CSV file
-output_csv_path = 'data/fact_checked_tweets.csv'  # Update the path where you want to save the result
+output_csv_path = 'data/fact_checked_tweets.csv'  
 df.to_csv(output_csv_path, index=False)
 
 print("Fact checking complete. Results saved to", output_csv_path)
