@@ -1,12 +1,11 @@
 import pandas as pd
 import requests
 
-# Load the CSV file
-csv_file_path = 'data\cleaned_tweet_data.csv'  # Update the path to your CSV file
+csv_file_path = 'data\cleaned_tweet_data.csv'  
 df = pd.read_csv(csv_file_path)
 
 # Your Google API Key
-API_KEY = 'AIzaSyCW1kw1GXXXXXXXXTXIZH3aoXXXXXXXX'  # Replace with your Google API key
+API_KEY = 'AIzaSyCW1kw1GXXXXXXXXTXIZH3aoXXXXXXXX'  
 FACT_CHECK_API_URL = 'https://factchecktools.googleapis.com/v1alpha1/claims:search'
 
 # Function to validate a tweet
