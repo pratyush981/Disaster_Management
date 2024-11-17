@@ -8,7 +8,7 @@ df = pd.read_csv(csv_file_path)
 API_KEY = 'AIzaSyCW1kw1GXXXXXXXXTXIZH3aoXXXXXXXX'  
 FACT_CHECK_API_URL = 'https://factchecktools.googleapis.com/v1alpha1/claims:search'
 
-# Fnction to validate a tweet
+# Function to validate a tweet
 def validate_tweet(tweet):
     params = {
         'query': tweet,
