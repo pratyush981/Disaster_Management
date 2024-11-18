@@ -7,7 +7,7 @@ function processCSV(inputFile, outputFile, callback) {
   PythonShell.run('process_model.py', null, (err) => {
     if (err) return callback(err);
 
-    // Read the processed output CSV
+    // Read the processed output CSV that is there
     const results = [];
     fs.createReadStream(outputFile)
       .pipe(csv())
