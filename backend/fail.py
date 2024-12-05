@@ -1,6 +1,6 @@
 import pandas as pd
 import requests
-
+  
 csv_file_path = 'data\cleaned_tweet_data.csv'  
 df = pd.read_csv(csv_file_path)
 
