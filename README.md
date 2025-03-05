@@ -1,1 +1,2 @@
 disaster management NDRF
+distaster information aggregation
